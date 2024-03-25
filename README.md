@@ -7,7 +7,7 @@ Este projeto consiste em uma interface web simples, construída como parte da tr
 O objetivo principal é aplicar conceitos de funções no JavaScript, manipulação da DOM, biblioteca JS Math() e funções callback. Durante as aulas, foram aplicados os seguintes conceitos:
 
 
-Conceitos aplicados:
+ Conceitos aplicados:
 * Estrutura de dados HTML
 * Funções no Javascript
 * Manipulação da DOM
